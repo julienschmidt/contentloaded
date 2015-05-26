@@ -15,6 +15,8 @@
 @param {Function} fn - function to be called
 */
 function contentLoaded(win, fn) {
+    'use strict';
+
     var done = false,
         top  = true,
 

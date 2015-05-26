@@ -1,12 +1,12 @@
 {
   "name": "ContentLoaded",
   "version": "1.2",
-  "homepage": "https://github.com/dperini/ContentLoaded",
+  "homepage": "https://github.com/julienschmidt/contentloaded",
   "authors": [
     "Diego Perini <diego.perini@gmail.com>"
   ],
   "description": "A cross-browser wrapper for DOMContentLoaded",
-  "main": "src/contentloaded.min.js",
+  "main": "contentloaded.js",
   "moduleType": [
     "globals"
   ],

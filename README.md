@@ -10,8 +10,8 @@ It is therfore a good idea to initialize your javascript like this:
 ```js
 contentLoaded(window, function(ev) {
     document.body.style.backgroundColor = 'green';
-    console.log("DOM is ready!")
-)
+    console.log("DOM is ready!");
+})
 ```
 
 See also: [DOMContentLoaded - Event reference | MDN](https://developer.mozilla.org/en-US/docs/Web/Events/DOMContentLoaded)

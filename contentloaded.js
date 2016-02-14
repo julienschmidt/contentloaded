@@ -18,7 +18,6 @@ function contentLoaded(win, fn) {
     'use strict';
 
     var done = false,
-        top  = true,
 
         doc    = win.document,
         root   = doc.documentElement,

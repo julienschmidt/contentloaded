@@ -4,9 +4,9 @@
  * Authors: Diego Perini (diego.perini at gmail.com)
  *          Julien Schmidt (floss at julienschmidt.com)
  * Summary: cross-browser wrapper for DOMContentLoaded
- * Updated: 2015-05-26
+ * Updated: 2016-02-14
  * License: MIT
- * Version: 1.3
+ * Version: 1.4
  */
 
 /**
